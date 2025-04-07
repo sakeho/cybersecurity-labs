@@ -1,2 +1,4 @@
 # cybersecurity-projects
-Practical cybersecurity scripts and tools demonstrating penetration testing, log analysis, and security automation using Bash, Python, and other technologies.
+A collection of cybersecurity projects including port scanners, log analysers, file integrity checkers, and intrustion detection systems.
+
+Each project is designed to deepen my understanding of real-world cybersecurity operations - reconnaissance, system hardening, and threat detection - while showcasing command-line and scripting proficiency in Bash, Python, and other technologies. 
