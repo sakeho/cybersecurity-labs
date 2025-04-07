@@ -1,4 +1,3 @@
-# cybersecurity-projects
-A collection of cybersecurity projects including port scanners, log analysers, file integrity checkers, and intrustion detection systems.
+# Cybersecurity, Penetration Testing, & Digital Forensics
 
-Each project is designed to deepen my understanding of real-world cybersecurity operations - reconnaissance, system hardening, and threat detection - while showcasing command-line and scripting proficiency in Bash, Python, and other technologies. 
+This repository features hands-on projects focused on setting up secure virtual networks (firewalls, servers, IDS), conducting vulnerability assessments, and practicing digital forensics. Each project is designed to deepen real-world security skills—spanning reconnaissance, threat detection, incident response, and system hardening, while showcasing Bash, PowerShell, Python experience.
